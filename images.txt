@@ -3,3 +3,4 @@ selenium/standalone-chrome
 appium/appium
 centos
 centos:7
+python
