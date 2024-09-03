@@ -6,3 +6,4 @@ centos:7
 python
 ubuntu
 alpine
+centos
