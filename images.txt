@@ -7,3 +7,4 @@ python
 ubuntu
 alpine
 centos
+redis
