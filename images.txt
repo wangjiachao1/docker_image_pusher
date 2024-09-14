@@ -8,3 +8,5 @@ ubuntu
 alpine
 centos
 redis
+confluentinc/cp-zookeeper
+confluentinc/cp-kafka
