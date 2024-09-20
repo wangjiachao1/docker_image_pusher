@@ -1,12 +1,3 @@
-python:alpine3.6
-selenium/standalone-chrome
-appium/appium
-centos
-centos:7
-python
-ubuntu
-alpine
-centos
-redis
+
 confluentinc/cp-zookeeper
 confluentinc/cp-kafka
