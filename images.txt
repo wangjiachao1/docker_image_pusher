@@ -1,2 +1,2 @@
-rabbitmq:latest
-rabbitmq:alpine
+gbase8a:latest
+redis:latest
