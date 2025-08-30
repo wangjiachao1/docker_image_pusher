@@ -1,2 +1,2 @@
 gbase8a:latest
-redis:latest
+
